@@ -27,9 +27,9 @@ The diagram captures essential backend-supported features, including:
 * **Booking System** – Search listings, check availability, book stays, and cancel reservations.
 * **Payment Processing** – Handle secure payments, confirmations, and refunds.
 * **Review and Messaging** – Facilitate guest-host communication and post-stay feedback.
-
+<!--
 Additionally, relationships such as `«include»` and `«extend»` indicate feature dependencies (e.g., *Make Booking* includes *Make Payment*).
-
+-->
 ---
 
 ## Purpose and Benefits
