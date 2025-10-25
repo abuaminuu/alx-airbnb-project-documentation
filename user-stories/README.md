@@ -1,7 +1,3 @@
-Here’s a concise **200–250 word `README.md`** for your **Airbnb Clone Use Case Diagram**, suitable for inclusion in your project’s documentation folder:
-
----
-
 # 🏠 Airbnb Clone – Use Case Diagram
 
 ## Overview
