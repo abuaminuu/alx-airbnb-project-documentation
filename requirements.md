@@ -212,6 +212,4 @@ This specification provides a complete guide for backend development of the **Ai
 It defines RESTful API endpoints, input/output formats, validation rules, and measurable performance criteria to ensure scalability, security, and maintainability across all features.
 
 ```
-
----
 ```
