@@ -1,4 +1,4 @@
-# 🧩 Airbnb Clone – Backend Requirement Specifications
+# 🧩 Airbnb Clone – Backend Requirement Specifications (SRD)
 
 ## 📘 Overview
 This document outlines the **functional and technical requirements** for the backend of the **Airbnb Clone** project.  
