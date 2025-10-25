@@ -18,8 +18,3 @@ After successful stays, guests can submit ratings and comments through the **Rev
 
 ## Purpose
 This architecture diagram provides a **clear visual representation of backend logic and data flow**, enabling developers to understand system dependencies and integration points. It ensures consistent implementation of authentication, data validation, and transaction integrity across all modules.
-
-## File Information
-- **File Name:** `Airbnb_Backend_Architecture.drawio`  
-- **Format:** Draw.io / PNG / PDF  
-- **Purpose:** Developer documentation and system overview for the Airbnb Clone backend.
