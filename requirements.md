@@ -1,6 +1,3 @@
----
-
-````markdown
 # 🧩 Airbnb Clone – Backend Requirement Specifications
 
 ## 📘 Overview
@@ -217,6 +214,4 @@ It defines RESTful API endpoints, input/output formats, validation rules, and me
 ```
 
 ---
-
-Would you like me to follow up with a **system architecture diagram** (showing how these modules interact with the database, API gateway, and external services like payments)? It would complement this `requirements.md` nicely.
 ```
